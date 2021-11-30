@@ -1,0 +1,17 @@
+In this project we are trying to use the MVC model and implementing OOP in php
+
+ *** MVC model which stands for model view controller****
+
+  It is a method to organise larger scales application by sepearting different parts into MVC 
+
+ SO the model is the part that communicates with the DB ie it does all the required calculations at the
+
+  level of the db an send the response to the view which is the UI ie what the client or user sees.
+
+ the controller is the part that instruct the model and on what they are suppose to perform, this 
+
+ controller for example is like the URL which when you click on students URL to searches for the students 
+
+ model and performs the required actions and dispplays the result on the students view etc.
+
+ ***** Here we will create classes which will stand for our different pages
